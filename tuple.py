@@ -9,3 +9,5 @@ myList[2]=  'New value added'
 # myTuples[3] = 'try to add' //will create error
 
 print(my_tuples[4])
+# using items() method you can see the actuall data type list or tuples.
+print(my_tuples.items())
